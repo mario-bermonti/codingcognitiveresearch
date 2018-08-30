@@ -1,7 +1,12 @@
-#+Title: About
+#+POSTID: 142
+#+BLOG: codin cognitive research
+#+DATE: [2018-08-29 Wed 20:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: python, coding, research, cognition, psychology
+#+TAGS: python, coding, research, cognition, psychology
+#+Title: Coding for Cognitive Research
 
-* TODO Add my CV online and update the link (a cloud like box is better because it can be updated automatically)
-
+* DONE Add my CV online and update the link (a cloud like box is better because it can be updated automatically) :noexport:
 * Outline :noexport:
 ** Sobre el blog:
 *** Blog: Bienvenidos, sobre usar la programación para desarrollar herramientas
@@ -50,11 +55,11 @@ they are easier to read and understand (and to write).
 * About me
 I'm Mario E. Bermonti Pérez and I'm a graduate student at the psychology department
 of the University of Puerto Rico. I'm also a research desing and statistics consultant
-for student and faculty research.
+for student and faculty.
 
 
 My areas of research focus on reading skills and its cognitive correlates. A second area
 of research focuses on developing computerized cognitive-educational interventions that
 help improve reading skills through the improvement of its cognitive correlates.
 
-For more info about me, check out my [[CV]].
+For more info about me, check out my [[https://app.box.com/s/4vs2euapbtapjvghsmv479h75s3ete04][CV]].
