@@ -1,0 +1,61 @@
+#+BLOG: codin cognitive research
+#+POSTID: 149
+#+DATE: [2018-08-29 Wed 21:06]
+#+BLOG: codin cognitive research
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: python, coding, research, cognition, psychology
+#+TAGS: python, coding, research, cognition, psychology
+#+Title: Why coding for cognitive research
+
+* Outline :noexport:
+- Por qué utilizar la programación
+- Investigación cognitiva, educativa y lingüística
+- Preparar estímulos: identificación, limpieza, análisis, organización
+- Diseñar experimentos
+- Presentar estímulos de forma avanzada
+- Automatizar manejo de datos
+– recuperación, integración
+- Analizar datos
+– identificar patrones, análisis estadísticos básicos e inferenciales
+– automatización de tareas repetitivas
+- Investigación reproducible (open science)
+– preparación de estímulos reproducibles, análisis reproducible, documentos reproducibles
+
+* Why learn coding?
+Learning to may seem really challenging but it's just a matter of dedicating time to learn
+another very useful tool.
+
+
+A few reasons why learning to code is a good idea:
+- *Stimuli preparation:*
+    Coding is really helpful for creating stimuli, cleaning stimuli based on certain criteria,
+    and organizing it (e.g. analyzing word length to balance that variable across conditions).
+
+
+- *Design experiments:*
+    Even though most stimuli presentation software have graphical interfaces,
+    most of them also provide code components that give you unlimited ability to customize
+    experimental paradigms.
+
+
+- *Automatizing data management:*
+    Can help automatize the retrieval and merging of databases, but also changing its format so
+    that it may be analyzed or stored by specific software.
+
+
+- *Analyzing data:*
+    It can be a really flexible tool for graphing and tabulating data, and also for conducting
+    statistical analysis (e.g. descriptive and inferential statistics) especially large databases.
+
+
+- *Reproducible research:*
+    Programming is especially useful for reproducible research and improving open science because
+    it offers very useful tools for developing research project's protocols and documenting all
+    research phases. For example, this post is written or [[https://orgmode.org/worg/org-tutorials/org4beginners.html][org-mode]] (i.e. a specific mode available
+    on the [[https://www.gnu.org/software/emacs/][Emacs]] text editor) and this tools lets you write text and include source code that can be run
+    from within Emacs and it captures whatever the code outputs. This is really useful for conducting
+    statistical analysis and integrate code, results with descriptions for the results (Nowadays I'm actually
+
+
+Now, if this isn't enough, be sure to checkout some of the posts about using coding to solve common tasks
+in cognitive research!
