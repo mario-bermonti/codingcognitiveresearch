@@ -1,0 +1,28 @@
+#+POSTID: 244
+#+ORG2BLOG:
+#+DATE: [2018-09-07 Fri 18:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: python, coding, research, cognition, psychology
+#+TAGS:
+#+DESCRIPTION: Discussion about variables
+#+TITLE: Programming Basics: Variables
+
+In this post we will discuss Variables and how they are used.
+
+
+Variables are the fundamental building blocks of any software so it's important
+you have a good understanding of them.
+
+
+You can think of them as a place in memory where you can store data.
+
+
+** Variables
+#+BEGIN_EXAMPLE
+https://youtu.be/OH86oLzVzzw
+#+END_EXAMPLE
+
+ 
+Additional resources (diving deeper into variables):
+  - [[https://www.tutorialspoint.com/python/python_variable_types.htm][Tutorials point]]
+  - [[https://docs.python.org/3.6/tutorial/introduction.html][Official Python tutorial (first part)]]
