@@ -1,10 +1,11 @@
+#+POSTID: 228
 #+BLOG: codin cognitive research
-#+POSTID: 149
 #+DATE: [2018-08-29 Wed 21:06]
 #+BLOG: codin cognitive research
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
 #+CATEGORY: python, coding, research, cognition, psychology
 #+TAGS: python, coding, research, cognition, psychology
+#+DESCRIPTION: Reasons why learning to code is useful for cognitive research
 #+Title: Why coding for cognitive research
 
 * Outline :noexport:
