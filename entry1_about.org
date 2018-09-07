@@ -38,7 +38,7 @@ teaches how to develop tools that can facilitate the research process.
 
 I'm going to use a combination of resources developed by myself, as well as
 resources available on the internet to teach:
-- the basics of programming: necessary building blocks to be able to develope your own tools
+- the basics of programming: necessary building blocks to be able to develop your own tools
 - how to apply these principles to solve or complete common research tasks and procedures
 
 
@@ -54,7 +54,7 @@ they are easier to read and understand (and to write).
 
 * About me
 I'm Mario E. Bermonti Pérez and I'm a graduate student at the psychology department
-of the University of Puerto Rico. I'm also a research desing and statistics consultant
+of the University of Puerto Rico. I'm also a research design and statistics consultant
 for student and faculty.
 
 
